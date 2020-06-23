@@ -23,10 +23,6 @@ export default class CreateAppointments1592774599258
             type: 'timestamp with time zone',
           },
           {
-            name: 'password',
-            type: 'varchar',
-          },
-          {
             name: 'created_at',
             type: 'timestamp',
             default: 'now()',
